@@ -1,6 +1,6 @@
 ## Olá! ✌
 
-- 📚 | Estudante de informática do Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 📚 | Estudante do 2º ano do Ensino Médio Integrado em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 | Programador em Python, JavaScript e C#
 
 <img width='150%' src=https://www.gifs-animados.net/barra/barra45.gif>
@@ -14,6 +14,10 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">     
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">    
+  <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg">
+          
+          
 </div>
  <br><br>
  
