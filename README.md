@@ -3,8 +3,8 @@
 - 📚 | Estudante de informática do Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
 - 💻 | Programador em Python, JavaScript e C#
 
-<a width='100%' href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra42.gif></a>
-  
+<a href=https://www.gifs-animados.net><img src=https://www.gifs-animados.net/barra/barra42.gif></a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&theme=radical&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
