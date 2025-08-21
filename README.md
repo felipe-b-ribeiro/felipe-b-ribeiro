@@ -1,6 +1,6 @@
 ## Olá! ✌
 
-- 📚 | Estudante do 3º ano do Ensino Médio Integrado em Informática no Colégio Cedup Abílio Paulo de Criciúma/SC - Brasil
+- 📚 | CPO do Projeto Scritus
 - 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&theme=radical&show_icons=true)
