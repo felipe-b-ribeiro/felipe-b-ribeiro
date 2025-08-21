@@ -3,8 +3,8 @@
 - 📚 | CPO do Projeto Scritus
 - 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&theme=radical&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&show_icons=true&theme=synthwave&count_private=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro)
           
           
 </div>
