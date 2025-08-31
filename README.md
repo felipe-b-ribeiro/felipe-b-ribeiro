@@ -8,7 +8,7 @@
 
 ### 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&layout=compact&theme=synthwave))
 
           
           
