@@ -1,7 +1,7 @@
-
+## Aspirante a desafios e sempre em busca de aprender novas tecnologias e de desafiar os próprios limites, esse sou eu.
 - 📚 | Co-fundador do Projeto Scritus;
 - 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL. Familiarizado com a Stack PERN;
-# Aspirante a desafios e sempre em busca de aprender novas tecnologias e de desafiar os próprios limites, esse sou eu.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&show_icons=true&theme=synthwave&count_private=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&theme=synthwave)
