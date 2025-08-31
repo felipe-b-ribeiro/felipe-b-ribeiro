@@ -6,6 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&show_icons=true&theme=synthwave&count_private=true)
 
+<br>
 ### 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&layout=compact&theme=synthwave))
