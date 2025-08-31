@@ -1,4 +1,3 @@
-## Olá! ✌
 
 - 📚 | Co-fundador do Projeto Scritus;
 - 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL. Familiarizado com a Stack PERN;
