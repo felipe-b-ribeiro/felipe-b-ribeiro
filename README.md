@@ -1,11 +1,12 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Fullstack Developer | Desenvolvedor Web Fullstack
-Building modern web apps with React, Node, and PostgreSQL
+Building modern web apps with React, Node.js, and PostgreSQL
 
-## Aspiring to challenges and always seeking to learn new technologies and push my own limits — that’s who I am.
-- 📚 | Co-fundador do Projeto Scritus;
-- 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL. Familiarizado com a Stack PERN;
+## Aspiring to take on challenges and always seeking to learn new technologies and push my own limits — that’s who I am.
+
+- 📚 Co-founder of the Scritus Project
+- 💻 Knowledgeable in JavaScript, Node.js, Express.js, REST APIs, React.js, and PostgreSQL. Lover of the PERN stack.
 
 ### 🗓 Minhas Estatísticas 
 
