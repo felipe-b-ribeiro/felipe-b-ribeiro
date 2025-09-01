@@ -1,6 +1,9 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />       
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Aspirante a desafios e sempre em busca de aprender novas tecnologias e de desafiar os próprios limites, esse sou eu.
+# Fullstack Developer | Desenvolvedor Web Fullstack
+Building modern web apps with React, Node, and PostgreSQL
+
+## Aspiring to challenges and always seeking to learn new technologies and push my own limits — that’s who I am.
 - 📚 | Co-fundador do Projeto Scritus;
 - 💻 | Conhecimentos em JavaScript, Node.js, Express.js, API REST, React,Js e PostgreSQL. Familiarizado com a Stack PERN;
 
