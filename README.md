@@ -8,12 +8,8 @@ Building modern web apps with React, Node.js, and PostgreSQL
 - 📚 Co-founder of the Scritus Project
 - 💻 Knowledgeable in JavaScript, Node.js, Express.js, REST APIs, React.js, and PostgreSQL. Lover of the PERN stack.
 
-### 🗓 Minhas Estatísticas 
+![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seu-username)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-b-ribeiro&show_icons=true&theme=synthwave&count_private=true)
-### 📊 Linguagens que mais uso
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-b-ribeiro&layout=compact&theme=synthwave)
 
 
 ### 🤖 Tecnologias que domino:
