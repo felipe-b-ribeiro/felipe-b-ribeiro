@@ -16,6 +16,7 @@ Building modern web apps with React, Node.js, and PostgreSQL
 
 
 
+
 ### 🤖 Tecnologias que domino:
 <div style='display: flex; gap: 10px;'>
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
