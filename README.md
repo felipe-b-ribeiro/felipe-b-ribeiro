@@ -12,7 +12,7 @@ Building modern web apps with React, Node.js, and PostgreSQL
 
 ![Isometric commit calendar](https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/raw/main/metrics.plugin.isocalendar.fullyear.svg)
 
-<center>
+
 ### 🤖 Technologies I master:
 <div style='display: flex; gap: 10px;'>
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -26,4 +26,4 @@ Building modern web apps with React, Node.js, and PostgreSQL
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-</center>
+
