@@ -8,17 +8,12 @@ Building modern web apps with React, Node.js, and PostgreSQL
 - 📚 Co-founder of the Scritus Project
 - 💻 Knowledgeable in JavaScript, Node.js, Express.js, REST APIs, React.js, and PostgreSQL. Lover of the PERN stack.
 
-![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-b-ribeiro)
-### 🗓️ Meu calendário de commits (visual 3D)
+### 🗓️ My commits
 
 ![Isometric commit calendar](https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/raw/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
-
-
-
-
-### 🤖 Tecnologias que domino:
+### 🤖 Technologies I master:
 <div style='display: flex; gap: 10px;'>
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
