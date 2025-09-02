@@ -11,7 +11,8 @@ Building modern web apps with React, Node.js, and PostgreSQL
 ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipe-b-ribeiro)
 ### 🗓️ Meu calendário de commits (visual 3D)
 
-![Isometric commit calendar](https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/blob/main/metrics.plugin.isocalendar.fullyear.svg)
+![Isometric commit calendar](https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/raw/main/metrics.plugin.isocalendar.fullyear.svg)
+
 
 
 
