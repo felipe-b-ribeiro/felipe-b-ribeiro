@@ -1,19 +1,19 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 # Fullstack Developer | Desenvolvedor Web Fullstack
-Building modern web apps with React, Node.js, and PostgreSQL
+Building modern web apps with React.js, Node.js, and PostgreSQL | Construind aplicações web modernas com React.js, Node.js e PostgreSQL
 
 ## Aspiring to take on challenges and always seeking to learn new technologies and push my own limits — that’s who I am.
 
-- 📚 Co-founder of the Scritus Project
-- 💻 Knowledgeable in JavaScript, Node.js, Express.js, REST APIs, React.js, and PostgreSQL. Lover of the PERN stack.
+- 📚 Co-founder of the Scritus Project | Co-fundador do projeto Scritus
+- 💻 Knowledgeable in JavaScript, Node.js, Express.js, REST APIs, React.js, and PostgreSQL. Lover of this stack, modularization and DRY (Don't Repeat Yourself). | Bem informado em JavaScript, Node.js, Express.js e PostgreSQL. Amante dessa stack, modularização e DRY (Don't Repeat Yourself).
 
-### 🗓️ My commits
+### 🗓️ My commits | Meus Commits
 
 ![Isometric commit calendar](https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/raw/main/metrics.plugin.isocalendar.fullyear.svg)
 
 
-### 🤖 Technologies I master:
+### 🤖 Technologies I master: | Tecnologias que domino
 <div style='display: flex; gap: 10px;'>
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           <img width='30' height='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
