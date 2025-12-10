@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align='center'><h1>Software Engineer | Fullstack Developer</h1>
+<div align='center'><h1>Hi I'm Felipe | Fullstack Developer</h1>
 Crafting modern websites with impressive UX/UI because every user deserves a great experience.
 
 <h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and pushing my own limits. </h2>
