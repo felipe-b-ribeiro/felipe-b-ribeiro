@@ -10,10 +10,6 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 
 </div>
 💻 Experience with Node.js, Express, REST APIs, React, and PostgreSQL. I follow principles like modularization, DRY, KISS, and Separation of Concerns to build maintainable and scalable applications. I strive to create unique and dynamic solutions.
-<div align='center'>
-          <h3> 🗓️ My commits </h3>
-          https://github.com/felipe-b-ribeiro/felipe-b-ribeiro/raw/main/metrics.plugin.isocalendar.fullyear.svg
-</div>
 
 <h4 align='center'> 🧰 My Toolbox: </h4>
 <p align="center">
