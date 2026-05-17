@@ -11,6 +11,13 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 </div>
 💻 Experience with Node.js, Express, REST APIs, React, and PostgreSQL. I follow principles like modularization, DRY, KISS, and Separation of Concerns to build maintainable and scalable applications. I strive to create unique and dynamic solutions.
 
+&nbsp;
+
+<div align='center'>
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/felipe-b-ribeiro?theme=dark)
+</div>
+
 <h4 align='center'> 🧰 My Toolbox: </h4>
 <p align="center">
   <a>
