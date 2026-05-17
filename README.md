@@ -13,15 +13,17 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 
 &nbsp;
 
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=postgres,express,react,nextjs,nodejs,typescript,javascript" /><br />
+    <img src="https://skillicons.dev/icons?i=npm,vite,docker,git,html,css,figma,vscode" />
+  </a>
+</p>
+
 <div align='center'>
 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/felipe-b-ribeiro?theme=dark)
 </div>
 
-<h4 align='center'> 🧰 My Toolbox: </h4>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=postgres,express,react,nextjs,nodejs,typescript,javascript,npm,vite,docker,git,html,css,figma,vscode" />
-  </a>
-</p>
+
 
