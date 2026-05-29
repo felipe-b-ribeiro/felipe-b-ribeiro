@@ -5,8 +5,8 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 
 <h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and pushing my own limits. </h2>
 
-
-📚 Co-founder of the Scritus Project | A Literary Social Media
+🥉 national math olympiad medalist - OBMEP
+📚 co-founder of Scritus | a literary social media
 
 </div>
 💻 Experience with Node.js, Express, REST APIs, React, and PostgreSQL. I follow principles like modularization, DRY, KISS, and Separation of Concerns to build maintainable and scalable applications. I strive to create unique and dynamic solutions.
