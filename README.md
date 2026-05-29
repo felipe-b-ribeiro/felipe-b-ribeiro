@@ -5,7 +5,7 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 
 <h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and pushing my own limits. </h2>
 
-🥉 national math olympiad medalist - OBMEP <br />
+🥉 national math olympiad medalist - OBMEP (<a href="http://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosBronze.do.htm#:~:text=Felipe%20Bitencourt%20Ribeiro" target="blank">link here</a>)<br />
 📚 co-founder of Scritus | a literary social media
 
 </div>
