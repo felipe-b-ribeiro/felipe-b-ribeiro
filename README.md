@@ -6,7 +6,7 @@ Crafting modern websites with Claude Code from scratch with impressive UX/UI bec
 <h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and trends in the tech world, using them to push my own limits and to learn. </h2>
 
 🥉 national math olympiad medalist - OBMEP (<a href="http://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosBronze.do.htm#:~:text=Felipe%20Bitencourt%20Ribeiro" target="blank">link here</a>)<br />
-📚 co-founder of Scritus | a literary social media
+📚 co-founder of Scritus | a literary social media<br />
 🔧 i maintain and improve Infinity, a multi-tenant omnichannel platform that serves over 170 municipal governments.
 
 </div>
