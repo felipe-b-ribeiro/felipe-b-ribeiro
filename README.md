@@ -1,15 +1,16 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <div align='center'><h1>Hi I'm Felipe | Fullstack Developer | AI Enthusiast</h1>
-Crafting modern websites from scratch with impressive UX/UI because every user deserves a great experience.
+Crafting modern websites with Claude Code from scratch with impressive UX/UI because every user deserves a great experience.
 
-<h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and pushing my own limits. </h2>
+<h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and trends in the tech world, using them to push my own limits and to learn. </h2>
 
 🥉 national math olympiad medalist - OBMEP (<a href="http://premiacao.obmep.org.br/17obmep/verRelatorioPremiadosBronze.do.htm#:~:text=Felipe%20Bitencourt%20Ribeiro" target="blank">link here</a>)<br />
 📚 co-founder of Scritus | a literary social media
+🔧 i maintain and improve Infinity, a multi-tenant omnichannel platform that serves over 170 municipal governments.
 
 </div>
-💻 Experience with Node.js, Express, REST APIs, React, and PostgreSQL. I follow principles like modularization, DRY, KISS, and Separation of Concerns to build maintainable and scalable applications. I strive to create unique and dynamic solutions.
+💻 Experience with Node.js, Express, REST APIs, Next.js, Nest.js, Redis, React, and PostgreSQL. I follow principles like modularization, DRY, KISS, and Separation of Concerns to build maintainable and scalable applications. I strive to create unique and dynamic solutions.
 
 &nbsp;
 
