@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<div align='center'><h1>Hi I'm Felipe | Fullstack Developer</h1>
+<div align='center'><h1>Hi I'm Felipe | Fullstack Developer | AI Enthusiast</h1>
 Crafting modern websites from scratch with impressive UX/UI because every user deserves a great experience.
 
 <h2> I aspire to take on challenges and learn from them. I'm always exploring new technologies and pushing my own limits. </h2>
@@ -15,6 +15,7 @@ Crafting modern websites from scratch with impressive UX/UI because every user d
 
 <p align="center">
   <a>
+    <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claudecode-color.svg" width="48" title="Claude Code">
     <img src="https://skillicons.dev/icons?i=postgres,express,react,nextjs,nodejs,typescript,javascript" /><br />
     <img src="https://skillicons.dev/icons?i=npm,vite,docker,git,html,css,figma,vscode" />
   </a>
