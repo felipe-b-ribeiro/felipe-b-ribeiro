@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<h2 align="center">Tech stack</h2>
+<h1 align="center">Tech Stack</h1>
 <p align="center">
   <img src="assets/icons/claudecode.svg" width="48" title="Claude Code" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="48" title="Claude" />
