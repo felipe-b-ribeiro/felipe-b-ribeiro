@@ -1,5 +1,46 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
+<h2 align="center">Tech stack</h2>
+<p align="center">
+  <img src="assets/icons/claudecode.svg" width="48" title="Claude Code" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="48" title="Claude" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" title="Gemini" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" title="NestJS" />
+  <img src="assets/icons/fastify.svg" width="48" title="Fastify" />
+  <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="48" title="Socket.IO" />
+  <img src="https://skillicons.dev/icons?i=lua" width="48" title="Lua" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vite" width="48" title="Vite" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="48" title="TanStack Query" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="48" title="Zustand" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" width="48" title="React Native" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" width="48" title="Expo" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" title="RabbitMQ" />
+  <img src="assets/icons/freeswitch.svg" width="48" title="FreeSWITCH" />
+  <img src="assets/icons/livekit.svg" width="48" title="LiveKit" />
+  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" title="nginx" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=jest" width="48" title="Jest" />
+  <img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="48" title="Playwright" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
+</p>
+<hr>
 <div align="center">
   <h1>Hi, I'm Felipe 👾</h1>
   <h3>Fullstack Developer | AI Enthusiast</h3>
@@ -60,47 +101,8 @@
 🔧 • **28,272 → 0 lint errors across 12 repos.** I also fixed 15 type errors and 16 failing tests, and brought the check cycle down from 49 to 33 minutes. The best find was a safety test that had always passed because its regex contained an invisible backspace character. <br>
 🔁 • **Got city hall phone lines answering again in 34 cities.** 87 queues, including health clinics, pharmacies and switchboards, had silently lost every agent. I traced it to an ID mismatch in the SIP registration check and fixed it live on both telephony nodes. The number of empty queues went to zero. <br>
 🔒 • **Security fixes for a platform that holds data for 170+ governments.** I closed cross-tenant access holes and hardened the SIP perimeter against toll-fraud scanners.
-<h2>Tech stack</h2>
+
 </div>
-<p align="center">
-  <img src="assets/icons/claudecode.svg" width="48" title="Claude Code" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="48" title="Claude" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" width="48" title="Gemini" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=nestjs" width="48" title="NestJS" />
-  <img src="assets/icons/fastify.svg" width="48" title="Fastify" />
-  <img src="https://skillicons.dev/icons?i=express" width="48" title="Express" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="48" title="Socket.IO" />
-  <img src="https://skillicons.dev/icons?i=lua" width="48" title="Lua" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=vite" width="48" title="Vite" />
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="48" title="TanStack Query" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="48" title="Zustand" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" width="48" title="React Native" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" width="48" title="Expo" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />
-  <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma" />
-  <img src="https://skillicons.dev/icons?i=redis" width="48" title="Redis" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" title="RabbitMQ" />
-  <img src="assets/icons/freeswitch.svg" width="48" title="FreeSWITCH" />
-  <img src="assets/icons/livekit.svg" width="48" title="LiveKit" />
-  <img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=nginx" width="48" title="nginx" />
-  <img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=jest" width="48" title="Jest" />
-  <img src="https://skillicons.dev/icons?i=vitest" width="48" title="Vitest" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="48" title="Playwright" />
-  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
-</p>
 
 <div align="center">
 <h2>A bit more</h2>
